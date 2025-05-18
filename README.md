@@ -15,11 +15,6 @@ CivicConnect is a web-based portal that allows citizens to submit local civic is
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Add screenshots of your site or features here, e.g., dashboard, submission form, etc.)*
-
----
 
 ## ⚙️ Tech Stack
 
